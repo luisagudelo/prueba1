@@ -9,6 +9,8 @@ package javaapplication1;
  *
  * @author 12
  */
+// Clase Sumar
+
 public class Sumar {
     public int sumar(int num1, int num2){
         return num1 + num2;
